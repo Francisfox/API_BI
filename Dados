@@ -1,0 +1,20 @@
+{
+  "Seções": [
+    {
+      "id": "Finalizar Atendimento",
+      "descricao": "Resumir o erro em uma linha de 10 a 15 palavras e a orientação apontada para o defeito em outra linha de 10 a 15 palavras. Descreva os testes realizados em um resumo dissertativo em um parágrafo, o que foi realizado para o problema apresentado pelo técnico, sem mencionar os envolvidos em uma síntese hermenêutica intencional. Apresente uma orientação técnica em uma resposta direta do que foi ofertado para a conclusão do acionamento e o número do protocolo inicial do chat ao ser acionado com a seguinte descrição: 'evidenciado estes processos com o ' e adicione apenas o número do protocolo."
+    },
+    {
+      "id": "Registro de Chamadas",
+      "descricao": "Documentar as chamadas realizadas, incluindo data, hora, duração e o motivo do contato. Incluir observações relevantes sobre a interação e o resultado final."
+    },
+    {
+      "id": "Análise de Problemas",
+      "descricao": "Listar os problemas identificados, suas possíveis causas e as soluções propostas. Inclua também o status atual de cada problema e qualquer follow-up necessário."
+    }
+    {
+      "id": "Técnico",
+      "descricao": "Meu nome é francismar então no chat esta tendo uma conversa e preciso que apresente o nome, email e telefone do outro interloctor "
+    } 
+  ]
+}
